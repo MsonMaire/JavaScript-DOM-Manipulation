@@ -15,7 +15,7 @@ This project demonstrates JavaScript DOM manipulation and interactive chart rend
 - Click the Update Chart button to see the Chart.js bar chart updated with new data.
 
 *Contributing*
-Contributions are welcome! Please fork the repository and create a pull request with your improvements.
+- Contributions are welcome! Please fork the repository and create a pull request with your improvements.
 
 *License*
-This project is licensed under the MIT License. See the LICENSE file for more details.
+- This project is licensed under the MIT License. See the LICENSE file for more details.
