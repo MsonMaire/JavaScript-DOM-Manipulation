@@ -81,7 +81,6 @@ document.addEventListener('DOMContentLoaded', function() {
     );
 
     document.getElementById('updateChartBtn').addEventListener('click', function() {
-        // Example: Update the first dataset's data values
         const newData = [55, 45, 70, 85, 60];
         myChart.data.datasets[0].data = newData;
         myChart.update();
